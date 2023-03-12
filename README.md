@@ -3,7 +3,7 @@ Python script adds all EVEN numbers between 1 and 100 utilizing range(2, 101, 2)
 
 ## Total even numbers 1 to 100 ##
 
-![Total Even Numbers](<https://github.com/Ongoing-Knowledge-Scraping/High-Score-in-List/blob/main/High-Score-in-List.gif> "Running the code")
+![Total Even Numbers](<https://github.com/Ongoing-Knowledge-Scraping/Total-Even-Numbers-1-to-100/blob/main/Even-Totaler.gif> "Running the code")
 
 ## View on Replit ##
 
